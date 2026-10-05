@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://ddtank98776.github.io/taiyu-spring/sitemap.xml
